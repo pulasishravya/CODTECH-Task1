@@ -1,8 +1,18 @@
 **Name:** PULASI SHRAVYA
+
+
 **Company:** CODTECH IT SOLUTIONS
-**ID:**
+
+
+**ID:**CT6WDS2352
+
+
 **Domain:** Python Programming
+
+
 **Duration:** November to December 2024
+
+
 **Mentor:** SRAVANI GOUNI
 
 
